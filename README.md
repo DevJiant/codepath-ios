@@ -19,7 +19,7 @@ Flixee is an app that allows users to browse movies from the [The Movie Database
 
 ### App Walkthrough GIF
 
-<img src="https://recordit.co/GBHrEFQIWL" width=250><br>
+<img src="http://g.recordit.co/GBHrEFQIWL.gif" width=><br>
 
 ### Notes
 
